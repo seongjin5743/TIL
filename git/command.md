@@ -1,3 +1,11 @@
 - git init: 현재 디렉토리에 깃 폴더를 생성하여 새로운 깃 저장소를 초기화
 - git clone: 현재 디렉토리에 원격저장소 디렉토리를 복사
-- 
+- git status: 현재 깃의 상태 확인. tracked와 untracked로 구분.
+- git add: 워킹 디렉토리에서 변경된 파일을 stage area로 이동
+- git log: 커밋의 히스토리 조회
+    - --oneline: 한줄로 보여주기
+    - --graph: 그래프로 보여주기
+- git remote: 원격 저장소 관리 명령어
+    -  add origin: 원격 저장소 추가
+    - -v: 원격 저장소 확인
+    - remove origin: 원격 저장소 삭제
