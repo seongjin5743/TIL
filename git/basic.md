@@ -5,3 +5,8 @@
 - staging area:  add 명령어로 무대위에 올리는 것
 - git directory: commit으로 깃에 올리는 것
 
+![사진](https://git-scm.com/book/ko/v2/images/lifecycle.png)
+- untracked: 관리 대상이 아님
+- tracked: 관리 대상임
+    - unmodified: 수정하지 않음
+    - modified: 수정함
