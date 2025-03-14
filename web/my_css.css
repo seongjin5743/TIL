@@ -1,0 +1,64 @@
+h3 {
+    color: green;
+}
+
+p {
+    color: orange;
+}
+
+#first {
+    color: yellow
+}
+
+#s {
+    color: violet;
+
+}
+
+.a {
+    color: purple
+}
+
+ol {
+    font-size: 20px;
+}
+
+ol > li.a {
+    font-size: 10px;
+}
+
+ol > li#unique {
+    background-color: yellow
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: pink;
+}
+
+/* a {
+    display: block;
+}
+
+div {
+    display: inline;
+} */
+
+div.square {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+
+.border {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.margin {
+    margin: 5px 10px 5px 10px;
+}
+/* 아이디가 태그보다 우선순위가 높다. */
