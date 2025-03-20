@@ -63,6 +63,7 @@
     - 02_subway
     - 03_css
     - 04_bootstrap
+
 ## 3월 3주차
 - [django1](https://github.com/seongjin5743/django1)
     - index
@@ -73,6 +74,11 @@
     - cube
     - articles
 - [CRUD](https://github.com/seongjin5743/CRUD)
+    - Create
+    - Read
+    - Update
+    - Delete
+- [BOARD](https://github.com/seongjin5743/BOARD)
     - Create
     - Read
     - Update
