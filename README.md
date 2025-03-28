@@ -99,8 +99,13 @@
     - signup
     - login
     - logout
+    - 게시물 Create
+    - 게시물 Read
+    - 게시물 Update
+    - 게시물 Delete
     - 댓글 Create
     - 댓글 Read
+    - 댓글 Delete
 
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
