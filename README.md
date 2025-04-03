@@ -130,8 +130,9 @@
     - 이벤트
     - 비동기 처리
 - [SQL](https://github.com/seongjin5743/SQL)
-    - MySQL
-    - sqlite3
+    - MySQL, sqlite3
+        - 0.DDL
+        - 1.insert
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
 글로벌소프트웨어캠퍼스와 동아일보가 함께 진행하는 챌린지입니다.
