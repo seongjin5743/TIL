@@ -26,6 +26,7 @@
     - 07_group
     - 08_concat
     - 09-titanic-practice
+
 - ML
     - 최근접 이웃
     - 훈련, 테스트
@@ -54,9 +55,11 @@
     - 순차 데이터
     - 순환 신경망
     - LSTM, GRU
+
 - chatbot
     - 00_make_url
     - 01_webhook
+
 - web
     - 00_html
     - 01_form
@@ -73,16 +76,19 @@
     - profile
     - cube
     - articles
+
 - [CRUD](https://github.com/seongjin5743/CRUD)
     - Create
     - Read
     - Update
     - Delete
+
 - [BOARD](https://github.com/seongjin5743/BOARD)
     - Create
     - Read
     - Update
     - Delete
+
 - [MODELFORM](https://github.com/seongjin5743/MODELFORM)
     - Create
     - Read
@@ -95,6 +101,7 @@
     - Delete
     - 댓글 Create
     - 댓글 Delete
+
 - [AUTH](https://github.com/seongjin5743/AUTH)
     - signup
     - login
@@ -129,6 +136,7 @@
     - 함수
     - 이벤트
     - 비동기 처리
+
 - [SQL](https://github.com/seongjin5743/SQL)
     - MySQL, sqlite3
         - 0.DDL
@@ -136,6 +144,7 @@
         - 2.SELECT
         - 3.UPDATE
         - 4.DELETE
+        - 5.JOIN
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
 글로벌소프트웨어캠퍼스와 동아일보가 함께 진행하는 챌린지입니다.
