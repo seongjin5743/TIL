@@ -129,22 +129,7 @@
     - 팔로우한 피드 보기
     - JS 좋아요/좋아요 취소
 
-- [JS-BASIC](https://github.com/seongjin5743/JS-BASIC)
-    - 변수 선언
-    - 조건문
-    - 반복문
-    - 함수
-    - 이벤트
-    - 비동기 처리
-
-- [SQL](https://github.com/seongjin5743/SQL)
-    - MySQL, sqlite3
-        - 0.DDL
-        - 1.INSERT
-        - 2.SELECT
-        - 3.UPDATE
-        - 4.DELETE
-        - 5.JOIN
+- [JS-BASIC](https://github.포
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
 글로벌소프트웨어캠퍼스와 동아일보가 함께 진행하는 챌린지입니다.
