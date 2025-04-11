@@ -149,7 +149,7 @@
 - [AWS SERVER](http://ec2-15-164-226-240.ap-northeast-2.compute.amazonaws.com/)
     - INSTA 서버 배포
 
-## 4월 1주차
+## 4월 2주차
 - [HADOOP](https://github.com/seongjin5743/HADOOP)
     - 데이터엔지니어링.md
     - 0.wordcount
