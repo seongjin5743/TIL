@@ -155,7 +155,14 @@
     - 0.wordcount
     - 1.movie-rate-avg
     - 2.log-time
-    - 3.book-data
+
+- [HIVE](https://github.com/seongjin5743/HIVE)
+    - 0.book-data
+
+- [AUTOMATION](https://github.com/seongjin5743/AUTOMATION)
+    - 0.log
+    - 1.upbit-api
+    - 2.static-web
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
 글로벌소프트웨어캠퍼스와 동아일보가 함께 진행하는 챌린지입니다.
