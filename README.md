@@ -163,6 +163,12 @@
     - 0.log
     - 1.upbit-api
     - 2.static-web
+
+## 4월 3주차
+- [AUTOMATION](https://github.com/seongjin5743/AUTOMATION)
+    - 3.dynamic-web
+
+- [HBASE](https://github.com/seongjin5743/HBASE)
  
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
