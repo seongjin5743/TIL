@@ -169,7 +169,9 @@
     - 3.dynamic-web
 
 - [HBASE](https://github.com/seongjin5743/HBASE)
- 
+    - main.py
+         - FastAPI를 이용해 채팅방 만들기
+
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
 ```
