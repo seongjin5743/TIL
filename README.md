@@ -171,6 +171,7 @@
 - [HBASE](https://github.com/seongjin5743/HBASE)
     - main.py
          - FastAPI를 이용해 채팅방 만들기
+
 - [SPARK](https://github.com/seongjin5743/SPARK)
     - 0.RDD
     - 1.DF
@@ -181,6 +182,12 @@
     - 3.REGRESSION
     - 4.CLASSIFICATION
     - 5.RECOMMENDATION
+    - 6.STREAMING (KAFKA도 포함)
+
+- [KAFKA](https://github.com/seongjin5743/KAFKA)
+    - upbit-producer.py
+    - upbit-consumer.py
+    - log-producer.py
 
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
