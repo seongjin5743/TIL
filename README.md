@@ -196,6 +196,11 @@
     - 04_upload_to_hdfs.py
     - 05_bitcoin.py
     - 06_upload_to_s3.py
+    - 07_collect_yt_comments.py
+    - 08.yt-data_ETL.py
+    - utils
+        - json_to_csv.py
+        - yt_data.py
 
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
