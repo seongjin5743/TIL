@@ -207,6 +207,15 @@
     - elastic.md
     - bulk.py
     - code.md
+        - mapping
+        - data type
+        - analyze
+        - CRUD
+        - search
+        - custom analyzer
+        - aggregate
+        - temp
+    - index.html
 
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
