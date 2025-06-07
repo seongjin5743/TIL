@@ -232,6 +232,9 @@
 ## 5월 5주차
 - [5.5](https://github.com/seongjin5743/5.5)
 
+## 6월 1주차
+- [5.5](https://github.com/seongjin5743/6.1)
+
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
 ```
