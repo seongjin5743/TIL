@@ -233,7 +233,10 @@
 - [5.5](https://github.com/seongjin5743/5.5)
 
 ## 6월 1주차
-- [5.5](https://github.com/seongjin5743/6.1)
+- [6.1](https://github.com/seongjin5743/6.1)
+- 
+## 6월 2주차
+- [6.2](https://github.com/seongjin5743/6.2)
 
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
