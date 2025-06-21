@@ -238,6 +238,9 @@
 ## 6월 2주차
 - [6.2](https://github.com/seongjin5743/6.2)
 
+## 6월 3주차
+- [6.2](https://github.com/seongjin5743/6.3)
+
 ## 알고리즘 문제
 - [ALGO](https://github.com/seongjin5743/ALGO)
 ```
